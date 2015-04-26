@@ -170,13 +170,13 @@ table tr th, table tr td
 
 ul, ol
 {
-  margin: 15px 0;
+  margin: 0;
 }
 
 ul li, ol li
 {
-  margin-top: 7px;
-  margin-bottom: 7px;
+  margin-top: 2.5px;
+  margin-bottom: 2.5px;
 }
 
 dl {
